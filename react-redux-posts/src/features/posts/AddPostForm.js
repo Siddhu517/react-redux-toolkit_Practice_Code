@@ -28,7 +28,7 @@ const AddPostForm = () => {
   };
 
   return (
-    <section className="mt-4 d-flex justify-content-center align-items-center flex-column">
+    <section className="d-flex justify-content-center align-items-center flex-column mt-4">
       <h2>Add a New Post</h2>
       <form className="form-group">
         <label htmlFor="postTitle" className="form-label">
